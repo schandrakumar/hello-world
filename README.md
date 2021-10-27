@@ -1,4 +1,7 @@
 # hello-world
+
+#2nd attempt :adding for conflict from final_branch
+
 just playing around git repo
 
 Hi buddy,
